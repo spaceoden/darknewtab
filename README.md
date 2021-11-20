@@ -13,7 +13,7 @@ Some new tab page extensions can be slow to launch if system is low on resources
 1. I don't want to be blinded by a white page whenever I open a new tab
 
 ### Where?
-1. Install it manually:
+Install it manually:
 1. clone master or download zip and extract
 1. load as unpacked on dev mode enabled extenstions page
 
