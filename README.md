@@ -1,10 +1,10 @@
-# Dark New Tab
+# Dark New Tab, *now with 20% less bullshit!*
 ![image](https://github.com/dandydanny/darknewtab/blob/master/darknewtab_github_screen_ani.gif)
-A minimalistic grey new tab page for Google Chrome. No external network requests. No analytics. No tracking. No bullshit.
+A minimalistic grey new tab page for Google Chrome. No external network requests. No analytics. No tracking. No bullshit. And no animation.
 
 ### What?
 1. A minimalistic new tab page replacement for Chrome.
-1. New tab page fades from black to dark grey; easy on your eyes.
+1. New tab page is a static dark grey page; no distracting animation.
 
 ### Why?
 1. Default Chrome new tab page makes network requests and show thumbnail images of previously visited sites
@@ -13,7 +13,9 @@ Some new tab page extensions can be slow to launch if system is low on resources
 1. I don't want to be blinded by a white page whenever I open a new tab
 
 ### Where?
-[Get it from the Chrome Web Store](https://chrome.google.com/webstore/detail/dark-new-tab/mnjmegebbljjhpljjfjmkhgmokpmdbpo?hl=en-US&gl=US)
+Install it manually:
+clone master or download zip and extract
+load as unpacked on dev mode enabled extenstions page
 
 ### Changelog
 * v1.3 - Removed "Dark New Tab" text from tab
@@ -22,4 +24,4 @@ Some new tab page extensions can be slow to launch if system is low on resources
  
 
 ### About
-Daniel is a web developer seeking opportunities, beverage socials, and late-night taco runs.
+Spaceoden thanks Daniel the original extension.
