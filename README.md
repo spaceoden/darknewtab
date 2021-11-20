@@ -1,5 +1,4 @@
 # Dark New Tab, *now with 20% less bullshit!*
-![image](https://github.com/dandydanny/darknewtab/blob/master/darknewtab_github_screen_ani.gif)
 A minimalistic grey new tab page for Google Chrome. No external network requests. No analytics. No tracking. No bullshit. And no animation.
 
 ### What?
