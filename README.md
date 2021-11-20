@@ -13,9 +13,9 @@ Some new tab page extensions can be slow to launch if system is low on resources
 1. I don't want to be blinded by a white page whenever I open a new tab
 
 ### Where?
-Install it manually:
-clone master or download zip and extract
-load as unpacked on dev mode enabled extenstions page
+1. Install it manually:
+1. clone master or download zip and extract
+1. load as unpacked on dev mode enabled extenstions page
 
 ### Changelog
 * v1.3 - Removed "Dark New Tab" text from tab
