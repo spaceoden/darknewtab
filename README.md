@@ -15,7 +15,7 @@ Some new tab page extensions can be slow to launch if system is low on resources
 ### Where?
 Install it manually:
 1. clone master or download zip and extract
-1. load as unpacked on dev mode enabled extenstions page
+1. load as unpacked on dev mode enabled chrome://extensions/ page
 
 ### Changelog
 * v1.3 - Removed "Dark New Tab" text from tab
